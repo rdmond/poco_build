@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/cpplib/poco_2022/ActiveRecord/Compiler/CMakeLists.txt
+  CodeGenerator.cpp
+  Compiler.cpp
+  HeaderGenerator.cpp
+  ImplGenerator.cpp
+  Parser.cpp
+  正在生成代码...
+  ActiveRecordCompiler.vcxproj -> D:\cpplib\poco_2022\cmake_win_x64\bin\Debug\arc.exe

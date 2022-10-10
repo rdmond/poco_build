@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\cpplib\poco_2022\Redis\src\Array.cpp">
+      <Filter>Redis\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Redis\src\AsyncReader.cpp">
+      <Filter>Redis\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Redis\src\Client.cpp">
+      <Filter>Redis\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Redis\src\Command.cpp">
+      <Filter>Redis\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Redis\src\Error.cpp">
+      <Filter>Redis\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Redis\src\Exception.cpp">
+      <Filter>Redis\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Redis\src\RedisEventArgs.cpp">
+      <Filter>Redis\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Redis\src\RedisStream.cpp">
+      <Filter>Redis\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Redis\src\Type.cpp">
+      <Filter>Redis\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\cpplib\poco_2022\Redis\include\Poco\Redis\Array.h">
+      <Filter>Redis\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Redis\include\Poco\Redis\AsyncReader.h">
+      <Filter>Redis\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Redis\include\Poco\Redis\Client.h">
+      <Filter>Redis\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Redis\include\Poco\Redis\Command.h">
+      <Filter>Redis\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Redis\include\Poco\Redis\Error.h">
+      <Filter>Redis\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Redis\include\Poco\Redis\Exception.h">
+      <Filter>Redis\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Redis\include\Poco\Redis\PoolableConnectionFactory.h">
+      <Filter>Redis\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Redis\include\Poco\Redis\Redis.h">
+      <Filter>Redis\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Redis\include\Poco\Redis\RedisEventArgs.h">
+      <Filter>Redis\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Redis\include\Poco\Redis\RedisStream.h">
+      <Filter>Redis\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Redis\include\Poco\Redis\Type.h">
+      <Filter>Redis\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\cpplib\poco_2022\Redis\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\cpplib\poco_2022\DLLVersion.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Redis">
+      <UniqueIdentifier>{40E52C50-1C68-376F-9A39-2DB5F54B6028}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Redis\Header Files">
+      <UniqueIdentifier>{94477D97-D3B5-35BD-9529-CCE1E0F7B1C3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Redis\Source Files">
+      <UniqueIdentifier>{6223CB56-6065-3337-8811-7CE57BAB12EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{E452DCA2-70E7-3F0C-9AF0-6F0D6B2F4169}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

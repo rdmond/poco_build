@@ -1,0 +1,10 @@
+^D:\CPPLIB\POCO_2022\XML\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/cpplib/poco_2022 -BD:/cpplib/poco_2022/cmake_win_x64 --check-stamp-file D:/cpplib/poco_2022/cmake_win_x64/XML/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

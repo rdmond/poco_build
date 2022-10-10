@@ -1,0 +1,35 @@
+﻿  Building Custom Rule D:/cpplib/poco_2022/NetSSL_OpenSSL/CMakeLists.txt
+  AcceptCertificateHandler.cpp
+  CertificateHandlerFactory.cpp
+  CertificateHandlerFactoryMgr.cpp
+  ConsoleCertificateHandler.cpp
+  Context.cpp
+D:\cpplib\poco_2022\NetSSL_OpenSSL\src\Context.cpp(764,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FTPSClientSession.cpp
+  FTPSStreamFactory.cpp
+  HTTPSClientSession.cpp
+  HTTPSSessionInstantiator.cpp
+  HTTPSStreamFactory.cpp
+  InvalidCertificateHandler.cpp
+  KeyConsoleHandler.cpp
+  KeyFileHandler.cpp
+  PrivateKeyFactory.cpp
+  PrivateKeyFactoryMgr.cpp
+  PrivateKeyPassphraseHandler.cpp
+  RejectCertificateHandler.cpp
+  SSLException.cpp
+  SSLManager.cpp
+  SecureSMTPClientSession.cpp
+  正在生成代码...
+  正在编译...
+  SecureServerSocket.cpp
+  SecureServerSocketImpl.cpp
+  SecureSocketImpl.cpp
+  SecureStreamSocket.cpp
+  SecureStreamSocketImpl.cpp
+  Session.cpp
+  Utility.cpp
+  VerificationErrorArgs.cpp
+  X509Certificate.cpp
+  正在生成代码...
+LINK : fatal error LNK1181: 无法打开输入文件“..\lib\Release\PocoCrypto.lib”

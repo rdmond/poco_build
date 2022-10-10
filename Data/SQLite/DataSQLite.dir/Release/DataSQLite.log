@@ -1,0 +1,13 @@
+﻿  Building Custom Rule D:/cpplib/poco_2022/Data/SQLite/CMakeLists.txt
+  Binder.cpp
+  Connector.cpp
+  Extractor.cpp
+  Notifier.cpp
+  SQLiteException.cpp
+  SQLiteStatementImpl.cpp
+  SessionImpl.cpp
+  Utility.cpp
+  正在生成代码...
+  sqlite3.c
+    正在创建库 D:/cpplib/poco_2022/cmake_win_x64/lib/Release/PocoDataSQLite.lib 和对象 D:/cpplib/poco_2022/cmake_win_x64/lib/Release/PocoDataSQLite.exp
+  DataSQLite.vcxproj -> D:\cpplib\poco_2022\cmake_win_x64\bin\Release\PocoDataSQLite.dll

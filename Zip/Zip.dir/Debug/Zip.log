@@ -1,0 +1,28 @@
+﻿  Building Custom Rule D:/cpplib/poco_2022/Zip/CMakeLists.txt
+  Add.cpp
+  AutoDetectStream.cpp
+  Compress.cpp
+  Decompress.cpp
+  Delete.cpp
+  Keep.cpp
+  ParseCallback.cpp
+  PartialStream.cpp
+  Rename.cpp
+  Replace.cpp
+  SkipCallback.cpp
+  ZipArchive.cpp
+  ZipArchiveInfo.cpp
+  ZipCommon.cpp
+  ZipDataInfo.cpp
+  ZipException.cpp
+  ZipFileInfo.cpp
+  ZipLocalFileHeader.cpp
+  ZipManipulator.cpp
+  ZipOperation.cpp
+  正在生成代码...
+  正在编译...
+  ZipStream.cpp
+  ZipUtil.cpp
+  正在生成代码...
+    正在创建库 D:/cpplib/poco_2022/cmake_win_x64/lib/Debug/PocoZipd.lib 和对象 D:/cpplib/poco_2022/cmake_win_x64/lib/Debug/PocoZipd.exp
+  Zip.vcxproj -> D:\cpplib\poco_2022\cmake_win_x64\bin\Debug\PocoZipd.dll

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\cpplib\poco_2022\Data\SQLite\src\Binder.cpp">
+      <Filter>SQLite\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Data\SQLite\src\Connector.cpp">
+      <Filter>SQLite\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Data\SQLite\src\Extractor.cpp">
+      <Filter>SQLite\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Data\SQLite\src\Notifier.cpp">
+      <Filter>SQLite\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Data\SQLite\src\SQLiteException.cpp">
+      <Filter>SQLite\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Data\SQLite\src\SQLiteStatementImpl.cpp">
+      <Filter>SQLite\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Data\SQLite\src\SessionImpl.cpp">
+      <Filter>SQLite\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Data\SQLite\src\Utility.cpp">
+      <Filter>SQLite\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Data\SQLite\src\sqlite3.c">
+      <Filter>sqlite3\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\cpplib\poco_2022\Data\SQLite\include\Poco\Data\SQLite\Binder.h">
+      <Filter>SQLite\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Data\SQLite\include\Poco\Data\SQLite\Connector.h">
+      <Filter>SQLite\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Data\SQLite\include\Poco\Data\SQLite\Extractor.h">
+      <Filter>SQLite\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Data\SQLite\include\Poco\Data\SQLite\Notifier.h">
+      <Filter>SQLite\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Data\SQLite\include\Poco\Data\SQLite\SQLite.h">
+      <Filter>SQLite\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Data\SQLite\include\Poco\Data\SQLite\SQLiteException.h">
+      <Filter>SQLite\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Data\SQLite\include\Poco\Data\SQLite\SQLiteStatementImpl.h">
+      <Filter>SQLite\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Data\SQLite\include\Poco\Data\SQLite\SessionImpl.h">
+      <Filter>SQLite\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Data\SQLite\include\Poco\Data\SQLite\Utility.h">
+      <Filter>SQLite\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Data\SQLite\src\sqlite3.h">
+      <Filter>sqlite3\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\cpplib\poco_2022\Data\SQLite\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\cpplib\poco_2022\DLLVersion.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{E452DCA2-70E7-3F0C-9AF0-6F0D6B2F4169}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SQLite">
+      <UniqueIdentifier>{23D0C28B-1F64-3E55-B284-BF535CDEEBE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SQLite\Header Files">
+      <UniqueIdentifier>{EA138BC8-F7A1-3B68-A571-894EAF494DA5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SQLite\Source Files">
+      <UniqueIdentifier>{28666631-1BF0-3A1A-9E58-30D200EFC628}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sqlite3">
+      <UniqueIdentifier>{03A41DD1-DF2E-3503-BF09-48B13964364C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sqlite3\Header Files">
+      <UniqueIdentifier>{488039E6-8464-36CD-8652-610C48A03474}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sqlite3\Source Files">
+      <UniqueIdentifier>{0EB910A4-122F-3B9D-9C54-5DEE2FAE3186}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

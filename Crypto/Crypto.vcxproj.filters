@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\Cipher.cpp">
+      <Filter>Cipher\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\CipherFactory.cpp">
+      <Filter>Cipher\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\CipherImpl.cpp">
+      <Filter>Cipher\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\CipherKey.cpp">
+      <Filter>Cipher\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\CipherKeyImpl.cpp">
+      <Filter>Cipher\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\CryptoException.cpp">
+      <Filter>Crypto\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\CryptoStream.cpp">
+      <Filter>Cipher\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\CryptoTransform.cpp">
+      <Filter>Cipher\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\DigestEngine.cpp">
+      <Filter>Digest\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\ECDSADigestEngine.cpp">
+      <Filter>ECDSA\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\ECKey.cpp">
+      <Filter>EC\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\ECKeyImpl.cpp">
+      <Filter>EC\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\EVPCipherImpl.cpp">
+      <Filter>EVP\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\EVPPKey.cpp">
+      <Filter>CryptoCore\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\Envelope.cpp">
+      <Filter>Envelope\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\KeyPair.cpp">
+      <Filter>CryptoCore\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\KeyPairImpl.cpp">
+      <Filter>CryptoCore\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\OpenSSLInitializer.cpp">
+      <Filter>CryptoCore\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\PKCS12Container.cpp">
+      <Filter>Certificate\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\RSACipherImpl.cpp">
+      <Filter>RSA\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\RSADigestEngine.cpp">
+      <Filter>RSA\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\RSAKey.cpp">
+      <Filter>RSA\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\RSAKeyImpl.cpp">
+      <Filter>RSA\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\Crypto\src\X509Certificate.cpp">
+      <Filter>Certificate\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\Cipher.h">
+      <Filter>Cipher\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\CipherFactory.h">
+      <Filter>Cipher\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\CipherImpl.h">
+      <Filter>Cipher\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\CipherKey.h">
+      <Filter>Cipher\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\CipherKeyImpl.h">
+      <Filter>Cipher\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\Crypto.h">
+      <Filter>CryptoCore\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\CryptoException.h">
+      <Filter>Crypto\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\CryptoStream.h">
+      <Filter>Cipher\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\CryptoTransform.h">
+      <Filter>Cipher\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\DigestEngine.h">
+      <Filter>Digest\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\ECDSADigestEngine.h">
+      <Filter>ECDSA\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\ECKey.h">
+      <Filter>EC\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\ECKeyImpl.h">
+      <Filter>EC\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\EVPCipherImpl.h">
+      <Filter>EVP\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\EVPPKey.h">
+      <Filter>CryptoCore\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\Envelope.h">
+      <Filter>Envelope\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\KeyPair.h">
+      <Filter>CryptoCore\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\KeyPairImpl.h">
+      <Filter>CryptoCore\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\OpenSSLInitializer.h">
+      <Filter>CryptoCore\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\PKCS12Container.h">
+      <Filter>Certificate\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\RSACipherImpl.h">
+      <Filter>RSA\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\RSADigestEngine.h">
+      <Filter>RSA\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\RSAKey.h">
+      <Filter>RSA\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\RSAKeyImpl.h">
+      <Filter>RSA\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\Crypto\include\Poco\Crypto\X509Certificate.h">
+      <Filter>Certificate\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\cpplib\poco_2022\Crypto\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\cpplib\poco_2022\DLLVersion.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Certificate">
+      <UniqueIdentifier>{B0E0B47B-5472-3DB8-BE08-761A229E0E1B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Certificate\Header Files">
+      <UniqueIdentifier>{7A4F97F9-655A-3DB6-BC6E-9C7CD4FE72EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Certificate\Source Files">
+      <UniqueIdentifier>{7FEA8B0D-118B-3ECC-B707-2B18170832AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cipher">
+      <UniqueIdentifier>{A4AA89AA-9D07-3C5E-8F5A-151C9D20BF59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cipher\Header Files">
+      <UniqueIdentifier>{B5E689A7-E464-3BC1-87BF-5B450539F132}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cipher\Source Files">
+      <UniqueIdentifier>{9254A534-C556-3CDF-B55A-842FFF2B804E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Crypto">
+      <UniqueIdentifier>{857B89DA-BF68-3AA3-ADF1-7541BC86E3A3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryptoCore">
+      <UniqueIdentifier>{A9D89280-7923-38B5-A541-252CF29FEB3D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryptoCore\Header Files">
+      <UniqueIdentifier>{B2837507-2CA6-3D96-8AAF-68132AC6FEC0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryptoCore\Source Files">
+      <UniqueIdentifier>{2DD2E6C1-379A-37D2-B8FD-E394AD76A0A6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Crypto\Header Files">
+      <UniqueIdentifier>{8BC146C5-8BC4-3D36-B506-76B1AFD391BD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Crypto\Source Files">
+      <UniqueIdentifier>{AFC3F8D8-EEF7-3F10-B6F3-90D9E19E09F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Digest">
+      <UniqueIdentifier>{410BF4A7-8265-3824-9677-280AEE53DDA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Digest\Header Files">
+      <UniqueIdentifier>{0D431056-E8A3-36FE-8DC7-E2E00EEED4FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Digest\Source Files">
+      <UniqueIdentifier>{3E05F2A3-ED02-312E-B076-49642295E5D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EC">
+      <UniqueIdentifier>{AE6D0184-B121-3DFD-AA8D-B9E53D6F9F2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ECDSA">
+      <UniqueIdentifier>{6D2CAB88-C9D9-33E3-BF5D-256FF10A3694}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ECDSA\Header Files">
+      <UniqueIdentifier>{7D17F4E9-5717-3FA0-B2DF-82541C23349F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ECDSA\Source Files">
+      <UniqueIdentifier>{CB1EF539-72B1-3B4B-A218-8FC05E235582}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EC\Header Files">
+      <UniqueIdentifier>{50D3B78E-6A79-3837-910E-BE4A7AE0096B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EC\Source Files">
+      <UniqueIdentifier>{4B171A8C-61C3-38B1-98BB-5843DE9C0798}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EVP">
+      <UniqueIdentifier>{E907273A-7BD6-3888-898E-A3F78339E099}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EVP\Header Files">
+      <UniqueIdentifier>{41E75F55-0C2B-343F-9537-8F9661D7B252}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EVP\Source Files">
+      <UniqueIdentifier>{4A5E7C07-810A-3D3F-B245-D3314A8A9D09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Envelope">
+      <UniqueIdentifier>{90C32C66-371E-3475-BFBE-6146187BD264}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Envelope\Header Files">
+      <UniqueIdentifier>{7C2A78C5-1821-36A4-8C3B-D1AFD4D66F23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Envelope\Source Files">
+      <UniqueIdentifier>{9B177561-5958-36DB-A428-966B2E989DA3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RSA">
+      <UniqueIdentifier>{3C47C3D1-7FDE-3921-B426-F5E949193F79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RSA\Header Files">
+      <UniqueIdentifier>{3B376665-C2B8-36D4-B06B-13357D9DD928}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RSA\Source Files">
+      <UniqueIdentifier>{226F6B09-13DE-36B0-9BD7-149C9F94AA49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{E452DCA2-70E7-3F0C-9AF0-6F0D6B2F4169}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

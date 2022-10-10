@@ -1,0 +1,43 @@
+﻿  Building Custom Rule D:/cpplib/poco_2022/Data/CMakeLists.txt
+  AbstractBinder.cpp
+  AbstractBinding.cpp
+  AbstractExtraction.cpp
+  AbstractExtractor.cpp
+  AbstractPreparation.cpp
+  AbstractPreparator.cpp
+  ArchiveStrategy.cpp
+  Bulk.cpp
+  Connector.cpp
+  DataException.cpp
+  Date.cpp
+  DynamicLOB.cpp
+  JSONRowFormatter.cpp
+  Limit.cpp
+  MetaColumn.cpp
+  PooledSessionHolder.cpp
+  PooledSessionImpl.cpp
+  Position.cpp
+  Range.cpp
+  RecordSet.cpp
+  正在生成代码...
+  正在编译...
+  Row.cpp
+  RowFilter.cpp
+  RowFormatter.cpp
+  RowIterator.cpp
+  SQLChannel.cpp
+  Session.cpp
+  SessionFactory.cpp
+  SessionImpl.cpp
+  SessionPool.cpp
+  SessionPoolContainer.cpp
+  SimpleRowFormatter.cpp
+  Statement.cpp
+  StatementCreator.cpp
+  Time.cpp
+  Transaction.cpp
+  Transcoder.cpp
+  正在生成代码...
+  StatementImpl.cpp
+    正在创建库 D:/cpplib/poco_2022/cmake_win_x64/lib/Debug/PocoDatad.lib 和对象 D:/cpplib/poco_2022/cmake_win_x64/lib/Debug/PocoDatad.exp
+  Data.vcxproj -> D:\cpplib\poco_2022\cmake_win_x64\bin\Debug\PocoDatad.dll

@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\Array.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\Binary.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\Connection.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\Cursor.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\Database.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\DeleteRequest.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\Document.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\Element.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\GetMoreRequest.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\InsertRequest.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\JavaScriptCode.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\KillCursorsRequest.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\Message.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\MessageHeader.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\ObjectId.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\QueryRequest.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\RegularExpression.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\ReplicaSet.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\RequestMessage.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\ResponseMessage.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\MongoDB\src\UpdateRequest.cpp">
+      <Filter>MongoDB\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\Array.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\BSONReader.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\BSONWriter.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\Binary.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\Connection.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\Cursor.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\Database.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\DeleteRequest.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\Document.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\Element.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\GetMoreRequest.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\InsertRequest.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\JavaScriptCode.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\KillCursorsRequest.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\Message.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\MessageHeader.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\MongoDB.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\ObjectId.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\PoolableConnectionFactory.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\QueryRequest.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\RegularExpression.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\ReplicaSet.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\RequestMessage.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\ResponseMessage.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\MongoDB\include\Poco\MongoDB\UpdateRequest.h">
+      <Filter>MongoDB\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\cpplib\poco_2022\MongoDB\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\cpplib\poco_2022\DLLVersion.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="MongoDB">
+      <UniqueIdentifier>{06D09102-E413-399B-94C8-9ACA8EADA3DD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MongoDB\Header Files">
+      <UniqueIdentifier>{3BE6A7AB-D67B-327B-B75B-B9274726478B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MongoDB\Source Files">
+      <UniqueIdentifier>{4925A7D4-E35B-3068-A49B-9B860CE1C5E8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{E452DCA2-70E7-3F0C-9AF0-6F0D6B2F4169}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

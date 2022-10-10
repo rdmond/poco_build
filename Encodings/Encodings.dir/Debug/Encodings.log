@@ -1,0 +1,38 @@
+﻿  Building Custom Rule D:/cpplib/poco_2022/Encodings/CMakeLists.txt
+  DoubleByteEncoding.cpp
+  Encodings.cpp
+  ISO8859_10Encoding.cpp
+  ISO8859_11Encoding.cpp
+  ISO8859_13Encoding.cpp
+  ISO8859_14Encoding.cpp
+  ISO8859_16Encoding.cpp
+  ISO8859_3Encoding.cpp
+  ISO8859_4Encoding.cpp
+  ISO8859_5Encoding.cpp
+  ISO8859_6Encoding.cpp
+  ISO8859_7Encoding.cpp
+  ISO8859_8Encoding.cpp
+  ISO8859_9Encoding.cpp
+  MacCentralEurRomanEncoding.cpp
+  MacChineseSimpEncoding.cpp
+  MacChineseTradEncoding.cpp
+  MacCyrillicEncoding.cpp
+  MacJapaneseEncoding.cpp
+  MacKoreanEncoding.cpp
+  正在生成代码...
+  正在编译...
+  MacRomanEncoding.cpp
+  Windows1253Encoding.cpp
+  Windows1254Encoding.cpp
+  Windows1255Encoding.cpp
+  Windows1256Encoding.cpp
+  Windows1257Encoding.cpp
+  Windows1258Encoding.cpp
+  Windows874Encoding.cpp
+  Windows932Encoding.cpp
+  Windows936Encoding.cpp
+  Windows949Encoding.cpp
+  Windows950Encoding.cpp
+  正在生成代码...
+    正在创建库 D:/cpplib/poco_2022/cmake_win_x64/lib/Debug/PocoEncodingsd.lib 和对象 D:/cpplib/poco_2022/cmake_win_x64/lib/Debug/PocoEncodingsd.exp
+  Encodings.vcxproj -> D:\cpplib\poco_2022\cmake_win_x64\bin\Debug\PocoEncodingsd.dll

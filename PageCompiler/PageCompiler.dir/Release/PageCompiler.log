@@ -1,0 +1,9 @@
+﻿  Building Custom Rule D:/cpplib/poco_2022/PageCompiler/CMakeLists.txt
+  ApacheCodeWriter.cpp
+  CodeWriter.cpp
+  OSPCodeWriter.cpp
+  Page.cpp
+  PageCompiler.cpp
+  PageReader.cpp
+  正在生成代码...
+  PageCompiler.vcxproj -> D:\cpplib\poco_2022\cmake_win_x64\bin\Release\cpspc.exe

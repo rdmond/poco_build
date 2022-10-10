@@ -1,0 +1,37 @@
+﻿  Building Custom Rule D:/cpplib/poco_2022/Util/CMakeLists.txt
+  AbstractConfiguration.cpp
+  Application.cpp
+  ConfigurationMapper.cpp
+  ConfigurationView.cpp
+  FilesystemConfiguration.cpp
+  HelpFormatter.cpp
+  IniFileConfiguration.cpp
+  IntValidator.cpp
+  JSONConfiguration.cpp
+  LayeredConfiguration.cpp
+  LocalConfigurationView.cpp
+  LoggingConfigurator.cpp
+  LoggingSubsystem.cpp
+  MapConfiguration.cpp
+  Option.cpp
+  OptionCallback.cpp
+  OptionException.cpp
+  OptionProcessor.cpp
+  OptionSet.cpp
+  PropertyFileConfiguration.cpp
+  正在生成代码...
+  正在编译...
+  RegExpValidator.cpp
+  ServerApplication.cpp
+  Subsystem.cpp
+  SystemConfiguration.cpp
+  Timer.cpp
+  TimerTask.cpp
+  Validator.cpp
+  WinRegistryConfiguration.cpp
+  WinRegistryKey.cpp
+  WinService.cpp
+  XMLConfiguration.cpp
+  正在生成代码...
+    正在创建库 D:/cpplib/poco_2022/cmake_win_x64/lib/Release/PocoUtil.lib 和对象 D:/cpplib/poco_2022/cmake_win_x64/lib/Release/PocoUtil.exp
+  Util.vcxproj -> D:\cpplib\poco_2022\cmake_win_x64\bin\Release\PocoUtil.dll

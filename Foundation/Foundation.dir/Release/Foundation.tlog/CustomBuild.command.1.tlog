@@ -1,0 +1,20 @@
+^D:\CPPLIB\POCO_2022\CMAKE_WIN_X64\CMAKEFILES\4BA145DC43CCF534174E2B341F785F7C\POCOMSG.H.RULE
+setlocal
+"C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\mc.exe" -h D:/cpplib/poco_2022/cmake_win_x64/Foundation -r D:/cpplib/poco_2022/cmake_win_x64/Foundation D:/cpplib/poco_2022/Foundation/src/pocomsg.mc
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\CPPLIB\POCO_2022\FOUNDATION\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/cpplib/poco_2022 -BD:/cpplib/poco_2022/cmake_win_x64 --check-stamp-file D:/cpplib/poco_2022/cmake_win_x64/Foundation/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

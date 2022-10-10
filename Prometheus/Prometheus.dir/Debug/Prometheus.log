@@ -1,0 +1,17 @@
+﻿  Building Custom Rule D:/cpplib/poco_2022/Prometheus/CMakeLists.txt
+  Collector.cpp
+  Counter.cpp
+  Gauge.cpp
+  Histogram.cpp
+  IntCounter.cpp
+  IntGauge.cpp
+  LabeledMetric.cpp
+  MetricsRequestHandler.cpp
+  MetricsServer.cpp
+  ProcessCollector.cpp
+  Registry.cpp
+  TextExporter.cpp
+  ThreadPoolCollector.cpp
+  正在生成代码...
+    正在创建库 D:/cpplib/poco_2022/cmake_win_x64/lib/Debug/PocoPrometheusd.lib 和对象 D:/cpplib/poco_2022/cmake_win_x64/lib/Debug/PocoPrometheusd.exp
+  Prometheus.vcxproj -> D:\cpplib\poco_2022\cmake_win_x64\bin\Debug\PocoPrometheusd.dll

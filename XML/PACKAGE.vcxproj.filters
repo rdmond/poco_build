@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\cpplib\poco_2022\cmake_win_x64\CMakeFiles\33521f4642f815cdbf3492a7685928c4\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9F3C8CEE-544E-3182-9224-0703C4F8E6DD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

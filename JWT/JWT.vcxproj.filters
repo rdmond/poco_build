@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\cpplib\poco_2022\JWT\src\JWTException.cpp">
+      <Filter>JWT\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\JWT\src\Serializer.cpp">
+      <Filter>JWT\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\JWT\src\Signer.cpp">
+      <Filter>JWT\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cpplib\poco_2022\JWT\src\Token.cpp">
+      <Filter>JWT\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\cpplib\poco_2022\JWT\include\Poco\JWT\JWT.h">
+      <Filter>JWT\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\JWT\include\Poco\JWT\JWTException.h">
+      <Filter>JWT\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\JWT\include\Poco\JWT\Serializer.h">
+      <Filter>JWT\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\JWT\include\Poco\JWT\Signer.h">
+      <Filter>JWT\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cpplib\poco_2022\JWT\include\Poco\JWT\Token.h">
+      <Filter>JWT\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\cpplib\poco_2022\JWT\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\cpplib\poco_2022\DLLVersion.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="JWT">
+      <UniqueIdentifier>{54C8C871-E3BA-314C-B2D0-4F0A12EB2346}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="JWT\Header Files">
+      <UniqueIdentifier>{C8140389-6399-302F-A718-526B4A851F37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="JWT\Source Files">
+      <UniqueIdentifier>{9480DB1B-7A16-3F0D-92A7-FD108A2CCC21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{E452DCA2-70E7-3F0C-9AF0-6F0D6B2F4169}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
